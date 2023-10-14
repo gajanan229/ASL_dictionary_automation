@@ -1,1 +1,2 @@
 # ASL_dictionary_automation
+I developed a Python script using Selenium to streamline the process of learning American Sign Language (ASL). In my introductory ASL course, there's a vocabulary list for each unit, and searching for the sign for each word can be time-consuming. To address this, I created a script that automates the task of opening a web browser and searching for the corresponding sign for each word in a new browser tab. The list of words is conveniently provided in a CSV file, making the learning process more efficient and enjoyable.  
